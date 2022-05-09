@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Lang Lei Personal Website</title>
+    <link>https://leylaone1.github.io/resume/</link>
+    <description>Recent content in Blog on Lang Lei Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://leylaone1.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://leylaone1.github.io/resume/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leylaone1.github.io/resume/about/</guid>
+      <description>Lang Lei, is an ORIE data analytics concentration student at Cornell University. Her projects and social media links are here:
+ https://github.com/leylaone1 https://www.linkedin.com/in/lang-lei-734338150/  </description>
+    </item>
+    
+  </channel>
+</rss>
